@@ -1,4 +1,10 @@
 # Deluxe-ETH-strategy-EMA-RSI
+
+## Provenance and access
+This repository documents the strategy published by the creator **Mark Lee** on the BuddyTrading marketplace.  
+The marketplace listing runs the creator’s proprietary implementation. BuddyTrading and this repo’s maintainers do not have rights or access to that private source code.  
+The code in this repo is a reference implementation for education and testing and may differ from the creator’s production code.
+
 Turn 100 USDT into 118.75 in a month using EMA 20/3 + RSI 14. Low hit rate, tight losses, outsized winners.
 JavaScript ETH trading bot using EMA cross with RSI filter. On BuddyTrading marketplace
 ```bash
@@ -25,3 +31,11 @@ Add these files to your BuddyTrading strategy project. The engine provides EMA, 
 
 ## Disclaimer
 For educational use only. Not financial advice.
+
+##Backtest snapshot
+ROI 18.75% from 100 USDT
+31 winners, 210 small cuts
+Largest win 5.25 USDT, largest loss 0.46 USDT
+241 pairs traded, near-zero drawdown
+
+Asymmetric edge beats low hit rate.
