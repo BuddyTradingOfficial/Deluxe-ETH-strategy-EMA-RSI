@@ -1,4 +1,5 @@
 # Deluxe-ETH-strategy-EMA-RSI
+Turn 100 USDT into 118.75 in a month using EMA 20/3 + RSI 14. Low hit rate, tight losses, outsized winners.
 JavaScript ETH trading bot using EMA cross with RSI filter. On BuddyTrading marketplace
 ```bash
 # Deluxe ETH Strategy — EMA + RSI
